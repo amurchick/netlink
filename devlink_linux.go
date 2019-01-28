@@ -3,7 +3,7 @@ package netlink
 import (
 	"syscall"
 
-	"github.com/vishvananda/netlink/nl"
+	"github.com/amurchick/netlink/nl"
 	"golang.org/x/sys/unix"
 )
 
