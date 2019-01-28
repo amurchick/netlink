@@ -8,7 +8,7 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/amurchick/netns"
+	"github.com/vishvananda/netns"
 	"golang.org/x/sys/unix"
 )
 

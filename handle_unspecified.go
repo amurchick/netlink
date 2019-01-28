@@ -6,7 +6,7 @@ import (
 	"net"
 	"time"
 
-	"github.com/amurchick/netns"
+	"github.com/vishvananda/netns"
 )
 
 type Handle struct{}

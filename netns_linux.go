@@ -15,7 +15,7 @@ package netlink
 import (
 	"fmt"
 
-	"github.com/amurchick/netlink/nl"
+	"github.com/vishvananda/netlink/nl"
 	"golang.org/x/sys/unix"
 )
 
